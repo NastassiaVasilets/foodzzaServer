@@ -1,0 +1,32 @@
+[{
+    "name": "Спайси Унаги Маки 132г",
+    "price": "8.50",
+    "url": "https://sushivesla.by/dishes/%D1%81%D0%BF%D0%B0%D0%B9%D1%81%D0%B8-%D1%83%D0%BD%D0%B0%D0%B3%D0%B8-%D0%BC%D0%B0%D0%BA%D0%B8",
+    "category": "Суши/Роллы",
+    "picture": "../../images/sushivesla/spaicy-unagi-maki.png"
+}, {
+    "name": "Текка Маки 110г",
+    "price": "5.30",
+    "url": "https://sushivesla.by/dishes/%D1%82%D0%B5%D0%BA%D0%BA%D0%B0-%D0%BC%D0%B0%D0%BA%D0%B8",
+    "category": "Суши/Роллы",
+    "picture": "../../images/sushivesla/tekka-maki.png"
+}, {
+    "name": "Катори Маки 147г",
+    "price": "6.90",
+    "url": "https://sushivesla.by/dishes/%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B8-%D0%BC%D0%B0%D0%BA%D0%B8",
+    "category": "Суши/Роллы",
+    "picture": "../../images/sushivesla/katori-maki.png"
+},{
+    "name": "СушиPрито с жареной курицей 360г",
+    "price": "4.99",
+    "url": "http://sushivesla.by/dishes/%D1%81%D1%83%D1%88%D0%B8%D1%80%D1%80%D0%B8%D1%82%D0%BE-%D1%81-%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D0%BE%D0%B9-%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B5%D0%B9-0",
+    "category": "Суши/Роллы",
+    "picture": "../../images/sushivesla/sushirrito-s-zharenoi-kuricei.png"
+},{
+    "name": "Эби темаки 71г",
+    "price": "6.35",
+    "url": "http://sushivesla.by/dishes/%D1%8D%D0%B1%D0%B8-%D1%82%D0%B5%D0%BC%D0%B0%D0%BA%D0%B8",
+    "category": "Суши/Роллы",
+    "picture": "../../images/sushivesla/ebi-temaki.png"
+}
+]

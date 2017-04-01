@@ -9,6 +9,7 @@ router.put('/orders/:id', putOrder);
 router.delete('/orders/:id', deleteOrder);
 
 var OrderModel = require('../models/order').OrderModel;
+var PersonModel = require('../models/person').PersonModel;
 
 function getOrders(req, res) {
     return OrderModel.find({})
@@ -24,7 +25,6 @@ function getOrders(req, res) {
     });
 }
 function postOrders(req, res) {
-    console.log('postOrder');
     var order = new OrderModel({
         owner: req.body.owner,
         dishes: req.body.dishes,
@@ -32,7 +32,6 @@ function postOrders(req, res) {
         time: req.body.time,
         subscriber: req.body.subscriber
     });
-    console.log(order);
     order.save(function (err) {
         if (!err) {
             log.info('order created');
